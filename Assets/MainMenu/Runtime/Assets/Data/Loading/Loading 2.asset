@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0554157f8e838a64d8a7da219905b321, type: 3}
+  m_Name: Loading 2
+  m_EditorClassIdentifier: 
+  loadingTitle: '"Povo Xucuru-Kariri em Ritual Tradicional"'
+  loadingDescription: "conjunto de ind\xEDgenas da etnia Xucuru-Kariri, utilizando
+    adere\xE7os ritual\xEDsticos como cocares e pinturas corporais, reunidos em um
+    momento cerimonial. O ambiente sugere um contexto simb\xF3lico coletivo, refor\xE7ando
+    o sentimento de identidade, ancestralidade e pertencimento cultural.\n\nFonte:
+    Wikip\xE9dia"
+  loadingPlaceholder: {fileID: -3697346707231172502, guid: 141efe12c3e7ea041a3a316b52f68df9, type: 3}

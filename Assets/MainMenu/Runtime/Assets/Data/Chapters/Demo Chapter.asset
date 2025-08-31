@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db7539c627f4fb347a5dfc01c14c3c84, type: 3}
+  m_Name: Demo Chapter
+  m_EditorClassIdentifier: 
+  chapterLabel: CHAPTER DEMO
+  chapterTitle: THE OUTLAWS OF NORTHEAST
+  chapterDescription: 'After a botched heist in Blackwater, the Van der Linde gang
+    is forced to flee into the frozen mountains of Ambarino. Struggling against the
+    brutal cold, dwindling supplies, and mounting tensions, Arthur Morgan and his
+    fellow outlaws take shelter in an abandoned mining town called Colter. '
+  chapterPortrait: {fileID: 21300000, guid: 668376bde40342f4485c70dc683ebdbf, type: 3}
