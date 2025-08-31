@@ -1,4 +1,4 @@
-# 🌿 Kauni — Guardian of the Forest
+# Kauni — Guardian of the Forest
 
 **Kauni** is a narrative-driven adventure game about a young indigenous woman chosen by the spirits of the forest to become its guardian.  
 
