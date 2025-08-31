@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9eb81fa6c5a536a488376f07d1d15993
+timeCreated: 1516081250
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/VS/Plants/FernCover02_LOD_VS.prefab
+  uploadId: 600147

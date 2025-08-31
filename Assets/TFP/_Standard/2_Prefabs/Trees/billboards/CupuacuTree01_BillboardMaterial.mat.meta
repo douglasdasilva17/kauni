@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 80ae26b37a79cf042b83bf065cd8037e
+timeCreated: 1514938890
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/Trees/billboards/CupuacuTree01_BillboardMaterial.mat
+  uploadId: 600147

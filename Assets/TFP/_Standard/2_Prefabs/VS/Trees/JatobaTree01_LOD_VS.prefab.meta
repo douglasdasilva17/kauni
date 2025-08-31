@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 351d9f01a78f8694bb70942e7524b8f5
+timeCreated: 1516080488
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/VS/Trees/JatobaTree01_LOD_VS.prefab
+  uploadId: 600147

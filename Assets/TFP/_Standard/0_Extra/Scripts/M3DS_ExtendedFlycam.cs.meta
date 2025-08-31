@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: dc454b85b8f2c914ea623632b4b2b4c4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/0_Extra/Scripts/M3DS_ExtendedFlycam.cs
+  uploadId: 600147

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b1adfab408207a47bdf0dfe764b9002
+timeCreated: 1488726591
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/0_Extra/ScenePrefabs/ForgottenRavine/Particles.prefab
+  uploadId: 600147

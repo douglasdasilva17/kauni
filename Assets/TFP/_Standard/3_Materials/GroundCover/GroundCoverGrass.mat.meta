@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 651c03c4915db364783dc61afc4eeb47
+timeCreated: 1484541418
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/3_Materials/GroundCover/GroundCoverGrass.mat
+  uploadId: 600147

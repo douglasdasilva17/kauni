@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0eef6c0312d027243a5b64531d173dc4
+timeCreated: 1515476200
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/Trees/AFS_ATG/ATG/DwarfPalmettoPalm01_ATG.prefab
+  uploadId: 600147

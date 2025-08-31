@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f0a24cbad6e8ef14c96f63d444a6fcd8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/Rocks/RockPileMedium02.prefab
+  uploadId: 600147

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a8e6636e8e83e3e4a93955fd35b1e974
+timeCreated: 1516079237
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/VS/Trees/CoconutPalmTree01_LOD_VS.prefab
+  uploadId: 600147

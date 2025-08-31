@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e592c50a5e28fdc4db29e353d8284cef
+timeCreated: 1472394168
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/3_Materials/Trees/DwarfPalmetto.mat
+  uploadId: 600147

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3f49343bca6fa824b8a938348e794bcd
+timeCreated: 1515475049
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/3_Materials/Trees/AFS/CoconutPalmTree02.mat
+  uploadId: 600147

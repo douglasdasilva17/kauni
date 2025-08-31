@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 89473145349c3414582015af3b8b9274
+timeCreated: 1516080397
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/VS/Plants/DwarfPalmettoPalm02_LOD_VS.prefab
+  uploadId: 600147

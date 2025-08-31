@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a852b0c0cda52d14cb1f430dda346751
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/VS/Objects/RockPileSmall01.prefab
+  uploadId: 600147

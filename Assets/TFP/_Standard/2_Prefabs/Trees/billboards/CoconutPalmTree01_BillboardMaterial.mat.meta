@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4bf5cd03eafbbc64e9af3a934ba06bcd
+timeCreated: 1514618200
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/Trees/billboards/CoconutPalmTree01_BillboardMaterial.mat
+  uploadId: 600147

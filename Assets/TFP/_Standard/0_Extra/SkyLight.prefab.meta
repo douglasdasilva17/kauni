@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3fc41da270082e64a8c3be5f6cb76364
+timeCreated: 1483582592
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/0_Extra/SkyLight.prefab
+  uploadId: 600147

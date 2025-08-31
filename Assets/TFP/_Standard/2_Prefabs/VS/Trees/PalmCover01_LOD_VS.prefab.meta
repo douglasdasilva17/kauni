@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 44079829178042d45bc0c958a1003bd8
+timeCreated: 1516081271
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/VS/Trees/PalmCover01_LOD_VS.prefab
+  uploadId: 600147

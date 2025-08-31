@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5542887e0e818e9438df4239d002c364
+timeCreated: 1514349986
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/Trees/billboards/BananaTree01_BillboardMaterial.mat
+  uploadId: 600147

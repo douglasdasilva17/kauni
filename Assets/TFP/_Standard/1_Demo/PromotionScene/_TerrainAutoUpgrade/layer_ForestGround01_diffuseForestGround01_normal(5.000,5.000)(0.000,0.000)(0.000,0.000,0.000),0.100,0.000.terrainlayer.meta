@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 48d2d1c57903a574aa41a54335048aea
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/1_Demo/PromotionScene/_TerrainAutoUpgrade/layer_ForestGround01_diffuseForestGround01_normal(5.000,5.000)(0.000,0.000)(0.000,0.000,0.000),0.100,0.000.terrainlayer
+  uploadId: 600147

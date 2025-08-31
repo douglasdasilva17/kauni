@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ede745bb591b5c74689cb40490693b58
+timeCreated: 1437610887
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/3_Materials/Particles/Heat_Displace.mat
+  uploadId: 600147

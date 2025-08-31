@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7373e72b235fd464ca370eb5f9e6acfd
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/0_Extra/Shaders/TFP_Particle.shader
+  uploadId: 600147

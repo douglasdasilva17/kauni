@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 69533adb151851340bc3ecc1cb7633fb
+timeCreated: 1516080340
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/VS/Trees/CupuacuTree01_LOD_VS.prefab
+  uploadId: 600147

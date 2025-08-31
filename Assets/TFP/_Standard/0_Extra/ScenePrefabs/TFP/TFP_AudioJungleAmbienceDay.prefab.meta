@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c29ad0d25d57b7d4782f7a1dada878e6
+timeCreated: 1491445965
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/0_Extra/ScenePrefabs/TFP/TFP_AudioJungleAmbienceDay.prefab
+  uploadId: 600147

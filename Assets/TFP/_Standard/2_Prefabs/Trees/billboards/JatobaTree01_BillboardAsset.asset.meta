@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a7301bbe4a4ef5745a22c8452fd87b4d
+timeCreated: 1514956131
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 22600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/Trees/billboards/JatobaTree01_BillboardAsset.asset
+  uploadId: 600147

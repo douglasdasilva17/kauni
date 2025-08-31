@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebd39fffe4bbb064c8be205fc54d0bc9
+timeCreated: 1446666712
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/0_Extra/Tropical_Forest_Pack_terrain_static.asset
+  uploadId: 600147

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5777cd7e1aaf3f147933f7331c284b98
+timeCreated: 1473009266
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/3_Materials/Trees/KapokTreeLeaves.mat
+  uploadId: 600147

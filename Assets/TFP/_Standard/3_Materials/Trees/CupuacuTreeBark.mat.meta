@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: abd464c541af2b046b745264b27d34fc
+timeCreated: 1456614551
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/3_Materials/Trees/CupuacuTreeBark.mat
+  uploadId: 600147

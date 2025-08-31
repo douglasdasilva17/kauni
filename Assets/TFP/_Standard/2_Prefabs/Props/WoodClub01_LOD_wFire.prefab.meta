@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 91ce25d4c2a8b574b853d10dcf285ce0
+timeCreated: 1525455948
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/Props/WoodClub01_LOD_wFire.prefab
+  uploadId: 600147

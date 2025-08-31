@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a184b9142fc71b45b016df4b89b7ae5
+timeCreated: 1495061106
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/0_Extra/ScenePrefabs/ForgottenRavine/Fires.prefab
+  uploadId: 600147

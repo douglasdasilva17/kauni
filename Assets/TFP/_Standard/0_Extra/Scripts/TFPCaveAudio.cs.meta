@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 9899bfbf8d3b1a440bc0487b045a5621
+timeCreated: 1487862903
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/0_Extra/Scripts/TFPCaveAudio.cs
+  uploadId: 600147

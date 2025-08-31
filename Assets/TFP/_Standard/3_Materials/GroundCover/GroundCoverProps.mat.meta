@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d710d20d217b83e4bb6481514898e80b
+timeCreated: 1484541418
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/3_Materials/GroundCover/GroundCoverProps.mat
+  uploadId: 600147

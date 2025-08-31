@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 11c7ff3afd1fed6498e92c568240ee34
+timeCreated: 1515702142
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/1_Demo/TFP/NavMesh.asset
+  uploadId: 600147

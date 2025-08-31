@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72ae94dc8918af645a69d7e343e04ff0
+timeCreated: 1514343360
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/GroundCover/Billboards/Alocasia02_BillboardMaterial.mat
+  uploadId: 600147

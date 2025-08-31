@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 327fd111970ebd14793feac91ae5aec0
+timeCreated: 1487465907
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/0_Extra/Water/Waterfall_GI.mat
+  uploadId: 600147

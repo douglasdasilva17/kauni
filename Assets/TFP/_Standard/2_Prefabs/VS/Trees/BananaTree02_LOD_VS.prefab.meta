@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1942d6243b1bacc40902bc092f087f74
+timeCreated: 1516079119
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/VS/Trees/BananaTree02_LOD_VS.prefab
+  uploadId: 600147

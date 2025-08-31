@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c79b444a688796f4f9fb4796ba2bd00b
+timeCreated: 1473009266
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/3_Materials/Trees/GI/KapokTreeBark_GI.mat
+  uploadId: 600147

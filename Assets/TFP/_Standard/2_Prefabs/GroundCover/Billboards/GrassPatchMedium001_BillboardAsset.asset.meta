@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5e7965a9d99daa741a0073984baefbec
+timeCreated: 1515555998
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 22600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/GroundCover/Billboards/GrassPatchMedium001_BillboardAsset.asset
+  uploadId: 600147

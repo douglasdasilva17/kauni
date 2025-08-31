@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 80486f4764307c14c90b175719043407
+timeCreated: 1514262828
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 22600000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/2_Prefabs/GroundCover/Billboards/BananaPlantCover02_billboard_BillboardAsset.asset
+  uploadId: 600147

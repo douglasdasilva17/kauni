@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5c5c9effbd03b24eab46210d9baf6de
+timeCreated: 1487478791
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49391
+  packageName: Tropical Forest Pack
+  packageVersion: 1.3.4
+  assetPath: Assets/TFP/_Standard/0_Extra/ScenePrefabs/ForgottenRavine/REFLProbes.prefab
+  uploadId: 600147
