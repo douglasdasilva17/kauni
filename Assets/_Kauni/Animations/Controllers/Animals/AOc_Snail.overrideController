@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AOc_Snail
+  m_Controller: {fileID: 9100000, guid: c33553d0483ce664f934c1be63363238, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c6a9584526f4c594397f9f724c838496, type: 3}
+    m_OverrideClip: {fileID: 7400000, guid: f2566fae1c5b03c419875b35696a9329, type: 3}

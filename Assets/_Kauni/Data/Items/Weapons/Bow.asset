@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 455e6a9b9f2ddc24ab8f999ec9c89f35, type: 3}
+  m_Name: Bow
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  itemName: Bow
+  equipAnimationName: Equip Bow
+  unequipAnimationName: Unequip Bow
+  modelPrefab: {fileID: 6514045214382863795, guid: 251f98cd251e0884b926e9cb6f0dd4b1,
+    type: 3}
+  isUnarmed: 0
+  controller: {fileID: 9100000, guid: fab9e584623f536459e543201f375257, type: 2}
+  weaponId: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AOC_Leopardk
+  m_Controller: {fileID: 9100000, guid: c33553d0483ce664f934c1be63363238, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: c6a9584526f4c594397f9f724c838496, type: 3}
+    m_OverrideClip: {fileID: 7400018, guid: 30965352fe132ad41b499dddb8799adb, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 8f13ee321cd3af2489b0a80977e38fbd, type: 3}
+    m_OverrideClip: {fileID: 7400002, guid: 30965352fe132ad41b499dddb8799adb, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: 5cc49558a8fbf8b4a933077baa0898f5, type: 3}
+    m_OverrideClip: {fileID: 7400004, guid: 30965352fe132ad41b499dddb8799adb, type: 3}
+  - m_OriginalClip: {fileID: 7400000, guid: e991d5e20561d3441ae8024bce024e67, type: 3}
+    m_OverrideClip: {fileID: 7400042, guid: 30965352fe132ad41b499dddb8799adb, type: 3}
